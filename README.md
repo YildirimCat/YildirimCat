@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Merhaba Ben Yıldırım Çat...
-<p align="left"> <img src="Photo.jpg" alt="YildirimCat" /> </p>
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yıldırım-çat-8467aa193/)
 [![Mail Badge](https://img.shields.io/badge/yldrmcat68@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yldrmcat68@gmail.com)](mailto:yldrmcat68@gmail.com)
