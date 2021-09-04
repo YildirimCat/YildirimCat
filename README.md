@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 # Merhaba Ben Yıldırım Çat...
 
-#You can contact me:
+# You can contact me:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yıldırım-çat-8467aa193/)
 [![Mail Badge](https://img.shields.io/badge/yldrmcat68@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yldrmcat68@gmail.com)](mailto:yldrmcat68@gmail.com)
